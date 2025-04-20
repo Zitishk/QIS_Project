@@ -50,7 +50,6 @@ This project aims to preprocess and analyze financial data to extract meaningful
 - Investigating the impact of longer return horizons on factor predictability.
 - Exploring alternative machine learning imputation techniques for improved data handling.
 - Enhancing portfolio optimization strategies through dynamic weighting schemes.
-- Addressing survivorship bias by incorporating data on delisted firms.
 
 ## Conclusion
 This work provides a comprehensive framework for financial data preprocessing, factor selection, and regression-based portfolio construction. The insights gained contribute to developing robust quantitative investment strategies while ensuring statistical rigor and economic interpretability.
